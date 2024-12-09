@@ -18,6 +18,7 @@ then sent to the master controller via serial port for slave operations, effecti
 imitating the trajectory simulated in the virtual environment.
 
 
+[Teleoperation_system_for_modified_SCARA_robot_using_intelligence_augmented_virtual_environment.pdf](https://github.com/user-attachments/files/18066972/Teleoperation_system_for_modified_SCARA_robot_using_intelligence_augmented_virtual_environment.pdf)
 
 
 
@@ -34,6 +35,5 @@ https://github.com/user-attachments/assets/3130911c-cec2-433c-891a-9895e9ff93b3
 
 https://github.com/user-attachments/assets/8289dabe-d102-4994-baae-1a3d20c455d6
 
-[development of embedded control system for scara robot with augmented intelligence graphical teleoperation station (1)-40-61 (1).pdf](https://github.com/user-attachments/files/18066937/development.of.embedded.control.system.for.scara.robot.with.augmented.intelligence.graphical.teleoperation.station.1.-40-61.1.pdf)
 
 
